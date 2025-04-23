@@ -1,2 +1,2 @@
 include:
-  - component: gitlab.com/gitlab-org/components/danger-review/danger-review@2.0
+  - component: gitlab.com/gitlab-org/components/danger-review/danger-review@2.1.0
